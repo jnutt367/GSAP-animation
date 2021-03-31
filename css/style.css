@@ -12,3 +12,35 @@ body {
     background-color: black;
     color: white;
 }
+
+.box {
+    text-align: center;
+    font-size: 3em;
+}
+
+.green {
+    background-color: rgb(61, 121, 1);
+    color: red;
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: cursive;
+}
+
+.orange {
+    background-color: coral;
+    height: 100px;
+    width: 300px;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.grey {
+    background-color: silver;
+    color: darkblue;
+    height: 100px;
+    width: 300px;
+    margin-top: 1em;
+    border-radius: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
