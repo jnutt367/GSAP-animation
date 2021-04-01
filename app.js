@@ -1,4 +1,5 @@
 gsap.from("#logo", { duration: 3, x: 300, opacity: 0, scale: 0.5 });
+gsap.from("#bball", { duration: 3, rotation: 360, x: 300, ease: "bounce", opacity: 0, scale: 0.5 });
 
 gsap.to("h2.title", { duration: 5, opacity: 0.3 });
 gsap.to(".box", { duration: 3, x: 140 });
