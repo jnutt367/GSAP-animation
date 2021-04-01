@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 30px 20px;
     background-color: silver;
-    color: white;
+    color: black;
 }
 
 .box {
@@ -21,8 +21,8 @@ body {
 .green {
     background-color: rgb(61, 121, 1);
     color: red;
-    height: 100px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     font-family: cursive;
 }
@@ -35,9 +35,9 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.grey {
-    background-color: silver;
-    color: darkblue;
+.black {
+    background-color: black;
+    color: rgb(218, 218, 230);
     height: 100px;
     width: 300px;
     margin-top: 1em;
