@@ -5,3 +5,5 @@ gsap.to(".box", { duration: 5, x: 100 });
 gsap.to(".green", { duration: 3, rotation: 360, scale: 0.5 });
 gsap.to(".orange", { duration: 3, rotation: 360, scale: 0.5 });
 gsap.to(".black", { duration: 3, rotation: 360, scale: 0.5 });
+
+gsap.to("#world", { duration: 2, x: 200, ease: "bounce" });

@@ -2,6 +2,10 @@
     width: 180px;
 }
 
+#world {
+    width: 300px;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap');
 body {
     text-align: center;
@@ -20,11 +24,12 @@ body {
 
 .green {
     background-color: rgb(61, 121, 1);
-    color: red;
+    color: black;
     height: 300px;
     width: 300px;
     border-radius: 50%;
     font-family: cursive;
+    font-size: 4em;
 }
 
 .orange {
@@ -38,9 +43,10 @@ body {
 .black {
     background-color: black;
     color: rgb(218, 218, 230);
-    height: 100px;
+    height: 300px;
     width: 300px;
     margin-top: 1em;
     border-radius: 35px;
+    padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
