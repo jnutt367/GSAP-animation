@@ -4,6 +4,11 @@
 
 #world {
     width: 300px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap');
@@ -13,7 +18,7 @@ body {
     font-weight: 300;
     margin: 0;
     padding: 30px 20px;
-    background-color: silver;
+    background-image: url('./svg/drawing.svg');
     color: black;
 }
 
